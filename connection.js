@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 // Connection URL
-const url = 'mongodb+srv://vaziri:335362Yv@cluster0.93i2tu4.mongodb.net/Library';
+const url = 'mongodb+srv://nasrin:1392@nasrin.ykolwlc.mongodb.net/Library';
 
 async function main() {
     // Use connect method to connect to the server
